@@ -1,5 +1,4 @@
 # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/> I'm Chetanya
-=================================================================================================================================
 
 I'm a pre-final year student passionate about web development. I started with HTML, CSS, and JavaScript and now work with the MERN stack (React, Node.js, Express, MongoDB). Currently exploring AI and Python libraries while building projects and improving my development skills.
 
