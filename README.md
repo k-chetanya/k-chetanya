@@ -4,11 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer | React Enthusiast | Building Modern Web Apps
 ------------------------------------------------------------------
 
-## About Me
-
 I'm a pre-final year student passionate about web development. I started with HTML, CSS, and JavaScript and now work with the MERN stack (React, Node.js, Express, MongoDB). Currently exploring AI and Python libraries while building projects and improving my development skills.
-
-## Details
 
 * 🌍 I'm based in Visakhapatnam, India  
 * ✉️ You can contact me at [kaichetanya@gmail.com](mailto:kaichetanya@gmail.com)  
